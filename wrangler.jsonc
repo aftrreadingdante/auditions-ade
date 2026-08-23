@@ -1,7 +1,0 @@
-{
-  // Configuration pour déployer le site en tant que Worker "static assets"
-  // (méthode recommandée par Cloudflare pour les nouveaux projets en 2026).
-  "name": "auditions-ade",
-  "compatibility_date": "2026-08-22",
-  "assets": { "directory": "./dist" }
-}
